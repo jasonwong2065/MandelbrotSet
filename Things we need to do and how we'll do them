@@ -1,3 +1,4 @@
+We need to make a mandelbrot function:
 #define xwidth 30
 int mandel(int x, int y)
 
