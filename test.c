@@ -3,5 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
     printf ("Hello World!");
-    
+    return EXIT_SUCCESS;
+    }
     
