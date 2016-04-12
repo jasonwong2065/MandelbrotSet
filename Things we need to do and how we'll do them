@@ -1,0 +1,25 @@
+#define xwidth 30
+int mandel(int x, int y)
+
+integer x
+integer y
+
+while y < 20
+    while (x < 30) {
+        if (mandel(x,y) = TRUE)
+            printf ("*")
+    	    x counter ++
+        else if (mandel(x,y) = FALSE)
+            printf (" ")
+    }
+    x = 0
+    y ++
+    
+
+mandel 
+
+complex add 
+complex multiply
+complex square
+    complex multiply (x,x)
+d
